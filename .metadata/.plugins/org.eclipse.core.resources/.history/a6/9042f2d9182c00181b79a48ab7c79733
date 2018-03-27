@@ -1,0 +1,19 @@
+
+public class two {
+
+	public static void main(String[] args) {
+
+		System.out.println("===================== 2번 문제  =====================");
+
+		
+		
+		
+		
+		
+		
+		
+		System.out.println("=====================프로그램 종료=====================");
+
+	}
+
+}

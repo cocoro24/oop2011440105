@@ -1,0 +1,18 @@
+
+public class Conditional_and_Loop {
+	//---------2018년 03월 20일 3주차 강의-------------
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//어떤 문제를 해결할 때 flow chart를 잘 그릴줄 알아야한다
+		
+		//Flowchart를 쓰는 이유 : 가독성.
+		//순서도는 그리는 사람에 따라 여러가지가 나올 수 있다.
+		
+		
+		
+		
+	}
+
+}
