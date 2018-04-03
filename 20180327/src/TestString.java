@@ -24,6 +24,10 @@ public class TestString {
 		str1 = str.toUpperCase();
 		System.out.println(str1);
 		
+//		str.length();
+//      str은 레퍼런스 변수(string)형태. length()는 스트링 클래스가 가지고있는 메소드
+
+		
 	}
 
 }
