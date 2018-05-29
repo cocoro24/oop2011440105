@@ -34,3 +34,5 @@
 2018-05-23 21:50:29,517 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.activemq:activemq-all:jar:5.15.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
 2018-05-25 00:18:47,147 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2018-05-25 00:18:59,746 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.activemq:activemq-all:jar:5.15.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 15:02:53,295 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-29 15:03:57,947 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.activemq:activemq-all:jar:5.15.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
